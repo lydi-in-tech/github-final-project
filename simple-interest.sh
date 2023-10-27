@@ -6,12 +6,12 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # <lydi-in-tech>
 
    # Input:
    # p, principal amount
    # t, time period in years
-   # r, annual rate of interest
+   # r, annual rate of 
 
    # Output:
    # simple interest = p*t*r
